@@ -1,0 +1,4 @@
+# Ensure github recognises the language as js
+
+* linguist-vendored
+*.js linguist-vendored=false
